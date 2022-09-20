@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darly_solutions/static/css/main.8f3e78db.css",
+    "main.js": "/darly_solutions/static/js/main.5c3355f9.js",
+    "index.html": "/darly_solutions/index.html",
+    "main.8f3e78db.css.map": "/darly_solutions/static/css/main.8f3e78db.css.map",
+    "main.5c3355f9.js.map": "/darly_solutions/static/js/main.5c3355f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f3e78db.css",
+    "static/js/main.5c3355f9.js"
+  ]
+}
