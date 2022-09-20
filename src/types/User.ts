@@ -6,3 +6,12 @@ export interface User {
   phone: string,
   website: string,
 }
+
+export interface NewUser {
+  name: string,
+  username: string,
+  email: string,
+  phone: string,
+  website: string,
+}
+
